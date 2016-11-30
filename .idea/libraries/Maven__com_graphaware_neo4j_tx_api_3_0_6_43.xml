@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.graphaware.neo4j:tx-api:3.0.6.43">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/graphaware/neo4j/tx-api/3.0.6.43/tx-api-3.0.6.43.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/graphaware/neo4j/tx-api/3.0.6.43/tx-api-3.0.6.43-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/graphaware/neo4j/tx-api/3.0.6.43/tx-api-3.0.6.43-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
