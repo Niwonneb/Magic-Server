@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MagicServer.iml" filepath="$PROJECT_DIR$/MagicServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toowynServer.iml" filepath="$PROJECT_DIR$/toowynServer.iml" />
     </modules>
   </component>
 </project>

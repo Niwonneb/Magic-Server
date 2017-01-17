@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="MagicServer" />
+        <module name="toowynServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MagicServer" target="1.8" />
+      <module name="toowynServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
