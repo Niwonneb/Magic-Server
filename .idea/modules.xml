@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/toowynServer.iml" filepath="$PROJECT_DIR$/toowynServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seedServer.iml" filepath="$PROJECT_DIR$/seedServer.iml" />
     </modules>
   </component>
 </project>

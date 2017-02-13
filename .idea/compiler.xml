@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="toowynServer" />
+        <module name="seedServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="toowynServer" target="1.8" />
+      <module name="seedServer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
